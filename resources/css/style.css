@@ -1,5 +1,5 @@
 body {
-background-color: rgb(51, 79, 170);
+background-color: white;
 text-align: center;
 font-family: Verdana;
 }
@@ -11,13 +11,27 @@ color: rgb(247, 120, 70);
 
 }
 .link--cta {
-color: rgb(127, 229, 255);
+color: rgb(59, 19, 238);
 font-size: 16px,
 }
 .head2 {
     font-weight: 300;
     font-size: 35px;
-    color: white;
+    color: rgb(65, 96, 153);
+    }
+
+    .logo {
+
+      width: 25%; /* set the width to 25% of the parent element */
+    
+      height: auto; /* maintain the aspect ratio of the image */
+    
+      float: left; /* position the image on the left side */
+    
+      margin: 0; /* remove any default margins */
+    
+      padding: 0; /* remove any default padding */
+    
     }
 
     .image-slider-container {
@@ -136,6 +150,11 @@ font-size: 16px,
       background-color: #fff;
     
     }
+
+    .link {
+      color: rgb(59, 19, 238);
+      font-size: 16px,
+      }
 .footer{
             text-align: right;
             color: grey;
