@@ -33,6 +33,19 @@ font-size: 16px,
       padding: 0; /* remove any default padding */
     
     }
+    .titre {
+
+      width: 100%; /* set the width to 25% of the parent element */
+    
+      height: auto; /* maintain the aspect ratio of the image */
+    
+      float: center; /* position the image on the left side */
+    
+      margin: 0; /* remove any default margins */
+    
+      padding: 0; /* remove any default padding */
+    
+    }
 
     .image-slider-container {
 
